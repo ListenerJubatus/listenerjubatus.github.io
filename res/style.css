@@ -1,0 +1,56 @@
+body {
+    font-family: system-ui, sans-serif;
+    font-size: 1.1rem;
+    line-height: 3rem;
+    background-color: #d6c7e7;
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+#core {
+    margin: 0 auto;
+    max-width: 400px;
+    height: 100px;
+}
+
+#core .bio {
+    font-size: 1.4rem;
+
+}
+#core .aka {
+    font-style: italic;
+    font-size: 1.0rem;
+}
+
+#core .links {
+    text-align: center;s
+    display: block;
+}
+
+#core .links li {
+    margin-bottom: 0.4rem;
+}
+
+#core .links li a {
+    border: 3px solid #b994e2;
+    background-color: #f5edff;
+    padding: 0.4rem 0.2rem;
+    border-radius: 1.0rem;
+    display: block;
+    color: #5b2e8f;
+}
+
+#core .links li a:link {
+    text-decoration: none;
+    font-style: italic;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#core .links li a:hover {
+    background-color: #FFF;
+    color: #b41717;
+}
