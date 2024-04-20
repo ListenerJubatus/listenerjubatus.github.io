@@ -2,7 +2,8 @@ body {
     font-family: system-ui, sans-serif;
     font-size: 1.1rem;
     line-height: 3rem;
-    background-color: #d6c7e7;
+	color: #FFF;
+    background: #000000 url("purple-dia.png");
 }
 
 h1 {
